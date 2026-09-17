@@ -1,4 +1,4 @@
-# 🌸Hey there, I'm so glad you're here!:
+# 🌸Hey there, I'm so glad you're here!
 Welcome to my little corner of GitHub! <br>I'm an MCA student passionate about growing my tech skills, exploring data, and making the learning process a little less overwhelming (and a lot more fun).<br>Here, you'll find:<br><br>🛠️ Projects I'm building or contributing to<br>📚 Things I've learned while juggling assignments and debugging<br><br>Let's connect, learn, and grow together—one commit at a time. 🚀
 
 
